@@ -1,1 +1,4 @@
-# d2ArtArrangements
+
+# SKIBIDI MODEL IDS
+
+Skibidi model ids for all my inventory demons :p
